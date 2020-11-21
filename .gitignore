@@ -1,3 +1,6 @@
+# csv files
+*.csv
+
 # os junk
 .DS_Store
 
