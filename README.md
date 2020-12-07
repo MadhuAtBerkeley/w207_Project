@@ -16,7 +16,9 @@ Reduce our RMSE below our initial baseline NN model.
 - `/requirements.txt`: contains package requirements to recreate our findings
 ## Reproducibility
 1. Run `source/w207_eda.ipynb` to understand how we've explored this dataset.
-2. Run `source/w207_project.ipynb` to run through our feature engineering and modeling pipeline.
+2. Run `source/w207_project.ipynb` to run through our wip feature engineering and modeling pipeline.
+3. Run `source/w207_project.py` to run through our finalized feature engineering and modeling pipeline.
+4. Run `source/w207_project_capsule.ipynb` to run through the our experimental capsule network code.
 
 
 
